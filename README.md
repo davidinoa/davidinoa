@@ -1,8 +1,8 @@
 ### Hello there! 👋
 
-I'm a spirited web engineer committed to crafting meaningful web experiences. 
-I write software because I'm passionate about making things, learning, and contributing to society. 
-My curiosity and self-learning ethos drive me to continuously explore the latest web technologies and advocate for best practices in the ever-evolving digital landscape.
+<p>I'm a spirited web engineer committed to crafting meaningful web experiences.</p>
+<p>I write software because I'm passionate about making things, learning, and contributing to society.</p>
+<p>My curiosity and self-learning ethos drive me to continuously explore the latest web technologies and advocate for best practices in the ever-evolving digital landscape.</p>
 
 <!--
 **davidinoa/davidinoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
