@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-<p>I'm a spirited web engineer committed to crafting meaningful web experiences.</p>
+<p>I'm a spirited engineer committed to crafting meaningful experiences.</p>
 <p>I write software because I'm passionate about making things, learning, and contributing to society.</p>
 <p>My curiosity and self-learning ethos drive me to continuously explore the latest web technologies and advocate for best practices in the ever-evolving digital landscape.</p>
 
